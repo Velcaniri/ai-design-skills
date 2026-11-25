@@ -48,6 +48,22 @@ Activate this skill when the user asks to:
     bad. Explain how it affects comprehension, scanning, confidence,
     accessibility, or task completion.
 
+## Cross-cutting design principles
+
+Use these as context-sensitive lenses during a product-page review, not as a checklist or proof that a design is wrong:
+
+- Establish clear hierarchy for product identity, price, options, trust signals, and purchase action.
+- Use alignment, proximity, similarity, and common regions to group information according to its meaning.
+- Balance visual weight; use contrast and emphasis to clarify the primary action without making every badge or color compete.
+- Treat typography, imagery, spacing, color, and icons as one consistent visual system. Preserve useful whitespace and legibility.
+- Prefer familiar interaction patterns when they support recognition; introduce novelty only when it improves the shopping task.
+- Reduce unnecessary choice and memory load, make touch targets easy to use, and keep labels and feedback near the controls they explain.
+- Give timely feedback for selection, validation, loading, cart updates, and completion. Measure performance instead of treating a quoted threshold as a guarantee.
+- Use progress, motion, and polish to support orientation and confidence. Avoid pressure cues, decorative complexity, or movement that interrupts reading.
+- Check responsive states, image variation, contrast, keyboard flow, focus, reduced motion, and screen-reader names where the artifact permits.
+
+Hick's Law, Fitts's Law, Jakob's Law, Gestalt grouping, the Peak-End Rule, and the aesthetic-usability effect are useful questions, not proof of a defect. Treat Miller's “7±2” shorthand and fixed golden-ratio layouts cautiously. The specialist skills provide separate workflows for graphic design, UX/UI, web design, motion, and cinematic interactions.
+
 ## Audit checklist: 15 common mistakes
 
 Use this checklist as a starting point. Report only issues that are
